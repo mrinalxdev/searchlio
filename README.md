@@ -7,14 +7,7 @@ SearchEngine enables you to find clarity and significant results on a large scal
 - No User login
 - Private Search Engine
 - Real-Time Support
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+- 
 
 ## Authors
 
